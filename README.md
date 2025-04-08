@@ -31,3 +31,7 @@ python umap_plot_Sanofi_Khavari_Lyko_Zou_Mar25.py \
     --colors CD68,CD163 \
     --save_path ./macrophage_markers
 
+
+📝 Notes
+	•	Designed for exploratory marker analysis in scRNA datasets.
+	•	Tested with conda env R_python2.
